@@ -117,7 +117,7 @@
           document.getElementById("details").style.display = "none";
           return;
         }
-        const s = data[select.value];
+        const s = data.students[select.value];
         const formattedFee = Number(s.fee).toLocaleString("vi-VN");
         document.getElementById("fee").innerText = formattedFee;
         document.getElementById("info").innerText = s.info;
@@ -160,4 +160,5 @@
   </script>
 </body>
 </html>
+
 
