@@ -1,8 +1,8 @@
 {
-  "title": "H?c ph? L?p Anh 9 (08/2025)",
+  "title": "Học phí Lớp Anh 9 (08/2025)",
   "students": [
     {
-      "name": "H? Ph??ng",
+      "name": "Hà Phương",
       "class": "9A2",
       "fee": 0,
       "info": "9A2HaPhuong",
@@ -14,7 +14,7 @@
       }
     },
     {
-      "name": "Minh Vi?t",
+      "name": "Minh Việt",
       "class": "9A2",
       "fee": 0,
       "info": "9A2MinhViet",
@@ -26,7 +26,7 @@
       }
     },
     {
-      "name": "Ng?c H?",
+      "name": "Ngọc Hà",
       "class": "9A2",
       "fee": 0,
       "info": "9A2NgocHa",
@@ -38,7 +38,7 @@
       }
     },
     {
-      "name": "H?i An",
+      "name": "Hải An",
       "class": "9A2",
       "fee": 0,
       "info": "9A2HaiAn",
@@ -62,7 +62,7 @@
       }
     },
     {
-      "name": "Thu? Linh",
+      "name": "Thuỳ Linh",
       "class": "9A2",
       "fee": 0,
       "info": "9A2ThuyLinh",
@@ -74,7 +74,7 @@
       }
     },
     {
-      "name": "H?ng Huy",
+      "name": "Hùng Huy",
       "class": "9A3",
       "fee": 0,
       "info": "9A3HungHuy",
@@ -86,7 +86,7 @@
       }
     },
     {
-      "name": "Qu?c",
+      "name": "Quốc",
       "class": "9A3",
       "fee": 0,
       "info": "9A3Quoc",
@@ -98,7 +98,7 @@
       }
     },
     {
-      "name": "Ti?n Anh",
+      "name": "Tiến Anh",
       "class": "9A3",
       "fee": 0,
       "info": "9A3TienAnh",
@@ -110,7 +110,7 @@
       }
     },
     {
-      "name": "Gia Ph?",
+      "name": "Gia Phú",
       "class": "9A3",
       "fee": 0,
       "info": "9A3GiaPhu",
@@ -122,7 +122,7 @@
       }
     },
     {
-      "name": "Ti?n D?ng",
+      "name": "Tiến Dũng",
       "class": "9A3",
       "fee": 0,
       "info": "9A3TienDung",
@@ -134,7 +134,7 @@
       }
     },
     {
-      "name": "Ti?n H?ng",
+      "name": "Tiến Hưng",
       "class": "9A3",
       "fee": 0,
       "info": "9A3TienHung",
@@ -158,7 +158,7 @@
       }
     },
     {
-      "name": "Ng?c ?nh",
+      "name": "Ngọc Ánh",
       "class": "9A3",
       "fee": 0,
       "info": "9A3NgocAnh",
@@ -170,7 +170,7 @@
       }
     },
     {
-      "name": "Xu?n ??t",
+      "name": "Xuân Đạt",
       "class": "9A3",
       "fee": 0,
       "info": "9A3XuanDat",
@@ -182,7 +182,7 @@
       }
     },
     {
-      "name": "Thu? D??ng",
+      "name": "Thuỳ Dương",
       "class": "9A3",
       "fee": 0,
       "info": "9A3ThuyDuong",
@@ -194,7 +194,7 @@
       }
     },
     {
-      "name": "Bao H?n",
+      "name": "Bao Hân",
       "class": "9A3",
       "fee": 0,
       "info": "9A3BaoHan",
@@ -206,7 +206,7 @@
       }
     },
     {
-      "name": "Qu?nh Chi",
+      "name": "Quỳnh Chi",
       "class": "9A3",
       "fee": 0,
       "info": "9A3QuynhChi",
@@ -218,7 +218,7 @@
       }
     },
     {
-      "name": "T??ng Vy",
+      "name": "Tường Vy",
       "class": "9A3",
       "fee": 0,
       "info": "9A3TuongVy",
@@ -230,7 +230,7 @@
       }
     },
     {
-      "name": "C?m T?",
+      "name": "Cẩm Tú",
       "class": "9A3",
       "fee": 0,
       "info": "9A3CamTu",
@@ -242,7 +242,7 @@
       }
     },
     {
-      "name": "Ng?n",
+      "name": "Ngân",
       "class": "9A5",
       "fee": 0,
       "info": "9A5Ngan",
@@ -254,7 +254,7 @@
       }
     },
     {
-      "name": "Ng?c T?n",
+      "name": "Ngọc Tân",
       "class": "9A6",
       "fee": 0,
       "info": "9A6NgocTan",
@@ -266,7 +266,7 @@
       }
     },
     {
-      "name": "Ph??ng Vy",
+      "name": "Phương Vy",
       "class": "9A6",
       "fee": 0,
       "info": "9A6PhuongVy",
@@ -278,7 +278,7 @@
       }
     },
     {
-      "name": "Ng?c",
+      "name": "Ngọc",
       "class": "9A6",
       "fee": 0,
       "info": "9A6Ngoc",
@@ -290,7 +290,7 @@
       }
     },
     {
-      "name": "H?ng",
+      "name": "Hưng",
       "class": "9A6",
       "fee": 0,
       "info": "9A6Hung",
@@ -302,7 +302,7 @@
       }
     },
     {
-      "name": "H? My",
+      "name": "Hà My",
       "class": "9A6",
       "fee": 0,
       "info": "9A6HaMy",
@@ -314,7 +314,7 @@
       }
     },
     {
-      "name": "Nh?t Minh",
+      "name": "Nhật Minh",
       "class": "9A2",
       "fee": 0,
       "info": "9A2NhatMinh",
@@ -326,7 +326,7 @@
       }
     },
     {
-      "name": "Ho?ng Anh",
+      "name": "Hoàng Anh",
       "class": "9A2",
       "fee": 0,
       "info": "9A2HoangAnh",
@@ -338,7 +338,7 @@
       }
     },
     {
-      "name": "Th?nh",
+      "name": "Thịnh",
       "class": "9A3",
       "fee": 0,
       "info": "9A3Thinh",
