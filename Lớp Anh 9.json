@@ -44,13 +44,6 @@
       "qr": "https://img.vietqr.io/image/MB-0989311300-compact2.png?amount=420000&addInfo=9A2ThuyLinh&accountName=CHU%20DUC%20THANH"
     },
     {
-      "name": "Hùng Huy",
-      "class": "9A3",
-      "fee": 420000,
-      "info": "9A3HungHuy",
-      "qr": "https://img.vietqr.io/image/MB-0989311300-compact2.png?amount=420000&addInfo=9A3HungHuy&accountName=CHU%20DUC%20THANH"
-    },
-    {
       "name": "Quốc",
       "class": "9A3",
       "fee": 420000,
@@ -65,20 +58,6 @@
       "qr": "https://img.vietqr.io/image/MB-0989311300-compact2.png?amount=420000&addInfo=9A3TienAnh&accountName=CHU%20DUC%20THANH"
     },
     {
-      "name": "Gia Phú",
-      "class": "9A3",
-      "fee": 420000,
-      "info": "9A3GiaPhu",
-      "qr": "https://img.vietqr.io/image/MB-0989311300-compact2.png?amount=420000&addInfo=9A3GiaPhu&accountName=CHU%20DUC%20THANH"
-    },
-    {
-      "name": "Tiến Dũng",
-      "class": "9A3",
-      "fee": 420000,
-      "info": "9A3TienDung",
-      "qr": "https://img.vietqr.io/image/MB-0989311300-compact2.png?amount=420000&addInfo=9A3TienDung&accountName=CHU%20DUC%20THANH"
-    },
-    {
       "name": "Tiến Hưng",
       "class": "9A3",
       "fee": 420000,
@@ -86,25 +65,11 @@
       "qr": "https://img.vietqr.io/image/MB-0989311300-compact2.png?amount=420000&addInfo=9A3TienHung&accountName=CHU%20DUC%20THANH"
     },
     {
-      "name": "Quang Huy",
-      "class": "9A3",
-      "fee": 420000,
-      "info": "9A3QuangHuy",
-      "qr": "https://img.vietqr.io/image/MB-0989311300-compact2.png?amount=420000&addInfo=9A3QuangHuy&accountName=CHU%20DUC%20THANH"
-    },
-    {
       "name": "Ngọc Ánh",
       "class": "9A3",
       "fee": 420000,
       "info": "9A3NgocAnh",
       "qr": "https://img.vietqr.io/image/MB-0989311300-compact2.png?amount=420000&addInfo=9A3NgocAnh&accountName=CHU%20DUC%20THANH"
-    },
-    {
-      "name": "Xuân Đạt",
-      "class": "9A3",
-      "fee": 420000,
-      "info": "9A3XuanDat",
-      "qr": "https://img.vietqr.io/image/MB-0989311300-compact2.png?amount=420000&addInfo=9A3XuanDat&accountName=CHU%20DUC%20THANH"
     },
     {
       "name": "Thuỳ Dương",
