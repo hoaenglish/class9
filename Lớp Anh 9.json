@@ -37,13 +37,6 @@
       "qr": "https://img.vietqr.io/image/MB-0989311300-compact2.png?amount=420000&addInfo=9A3TienHung&accountName=CHU%20DUC%20THANH"
     },
     {
-      "name": "Hồng Ánh",
-      "class": "9A3",
-      "fee": 420000,
-      "info": "9A3HongAnh",
-      "qr": "https://img.vietqr.io/image/MB-0989311300-compact2.png?amount=420000&addInfo=9A3HongAnh&accountName=CHU%20DUC%20THANH"
-    },
-    {
       "name": "Cẩm Tú",
       "class": "9A3",
       "fee": 420000,
