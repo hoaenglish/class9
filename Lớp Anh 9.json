@@ -16,13 +16,6 @@
       "qr": "https://img.vietqr.io/image/MB-0989311300-compact2.png?amount=420000&addInfo=9A2ThuyLinh&accountName=CHU%20DUC%20THANH"
     },
     {
-      "name": "Quốc",
-      "class": "9A3",
-      "fee": 420000,
-      "info": "9A3Quoc",
-      "qr": "https://img.vietqr.io/image/MB-0989311300-compact2.png?amount=420000&addInfo=9A3Quoc&accountName=CHU%20DUC%20THANH"
-    },
-    {
       "name": "Tiến Anh",
       "class": "9A3",
       "fee": 420000,
