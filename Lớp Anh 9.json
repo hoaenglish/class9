@@ -51,13 +51,6 @@
       "qr": "https://img.vietqr.io/image/MB-0989311300-compact2.png?amount=660000&addInfo=9A3Quoc&accountName=CHU%20DUC%20THANH"
     },
     {
-      "name": "Tiến Anh",
-      "class": "9A3",
-      "fee": 60000,
-      "info": "9A3TienAnh",
-      "qr": "https://img.vietqr.io/image/MB-0989311300-compact2.png?amount=60000&addInfo=9A3TienAnh&accountName=CHU%20DUC%20THANH"
-    },
-    {
       "name": "Gia Phú",
       "class": "9A3",
       "fee": 420000,
