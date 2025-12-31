@@ -107,13 +107,6 @@
       "qr": "https://img.vietqr.io/image/MB-0989311300-compact2.png?amount=480000&addInfo=9A5Ngan&accountName=CHU%20DUC%20THANH"
     },
     {
-      "name": "Trọng",
-      "class": "9A5",
-      "fee": 360000,
-      "info": "9A5Trong",
-      "qr": "https://img.vietqr.io/image/MB-0989311300-compact2.png?amount=360000&addInfo=9A5Trong&accountName=CHU%20DUC%20THANH"
-    },
-    {
       "name": "Ngọc Tân",
       "class": "9A6",
       "fee": 480000,
