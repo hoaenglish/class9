@@ -1,5 +1,5 @@
 {
-  "title": "Học phí Lớp Anh 9 (12/2025)",
+  "title": "Học phí Lớp Anh 9 (11/2025)",
   "students": [
     {
       "name": "Hà Phương",
@@ -77,13 +77,6 @@
       "fee": 480000,
       "info": "9A3TienHung",
       "qr": "https://img.vietqr.io/image/MB-0989311300-compact2.png?amount=480000&addInfo=9A3TienHung&accountName=CHU%20DUC%20THANH"
-    },
-    {
-      "name": "Quang Huy",
-      "class": "9A3",
-      "fee": 480000,
-      "info": "9A3QuangHuy",
-      "qr": "https://img.vietqr.io/image/MB-0989311300-compact2.png?amount=480000&addInfo=9A3QuangHuy&accountName=CHU%20DUC%20THANH"
     },
     {
       "name": "Hồng Ánh",
