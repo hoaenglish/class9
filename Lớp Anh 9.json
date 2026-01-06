@@ -84,13 +84,6 @@
       "fee": 480000,
       "info": "9A6Ngoc",
       "qr": "https://img.vietqr.io/image/MB-0989311300-compact2.png?amount=480000&addInfo=9A6Ngoc&accountName=CHU%20DUC%20THANH"
-    },
-    {
-      "name": "Hà My",
-      "class": "9A6",
-      "fee": 480000,
-      "info": "9A6HaMy",
-      "qr": "https://img.vietqr.io/image/MB-0989311300-compact2.png?amount=480000&addInfo=9A6HaMy&accountName=CHU%20DUC%20THANH"
     }
   ]
 }
