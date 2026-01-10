@@ -16,13 +16,6 @@
       "qr": "https://img.vietqr.io/image/MB-0989311300-compact2.png?amount=360000&addInfo=9A2HaiAn&accountName=CHU%20DUC%20THANH"
     },
     {
-      "name": "Thuỳ Linh",
-      "class": "9A2",
-      "fee": 480000,
-      "info": "9A2ThuyLinh",
-      "qr": "https://img.vietqr.io/image/MB-0989311300-compact2.png?amount=480000&addInfo=9A2ThuyLinh&accountName=CHU%20DUC%20THANH"
-    },
-    {
       "name": "Hùng Huy",
       "class": "9A3",
       "fee": 480000,
