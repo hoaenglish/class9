@@ -1,12 +1,4 @@
 {
   "title": "Học phí Lớp Anh 9 (12/2025)",
-  "students": [
-    {
-      "name": "Hà Phương",
-      "class": "9A2",
-      "fee": 900000,
-      "info": "9A2HaPhuong",
-      "qr": "https://img.vietqr.io/image/MB-0989311300-compact2.png?amount=900000&addInfo=9A2HaPhuong&accountName=CHU%20DUC%20THANH"
-    }
-  ]
+  "students": []
 }
