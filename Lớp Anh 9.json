@@ -9,13 +9,6 @@
       "qr": "https://img.vietqr.io/image/MB-0989311300-compact2.png?amount=480000&addInfo=9A2HaPhuong&accountName=CHU%20DUC%20THANH"
     },
     {
-      "name": "Minh Việt",
-      "class": "9A2",
-      "fee": 420000,
-      "info": "9A2MinhViet",
-      "qr": "https://img.vietqr.io/image/MB-0989311300-compact2.png?amount=420000&addInfo=9A2MinhViet&accountName=CHU%20DUC%20THANH"
-    },
-    {
       "name": "Hải An",
       "class": "9A2",
       "fee": 360000,
@@ -37,25 +30,11 @@
       "qr": "https://img.vietqr.io/image/MB-0989311300-compact2.png?amount=420000&addInfo=9A3HungHuy&accountName=CHU%20DUC%20THANH"
     },
     {
-      "name": "Quốc",
-      "class": "9A3",
-      "fee": 360000,
-      "info": "9A3Quoc",
-      "qr": "https://img.vietqr.io/image/MB-0989311300-compact2.png?amount=360000&addInfo=9A3Quoc&accountName=CHU%20DUC%20THANH"
-    },
-    {
       "name": "Quang Huy",
       "class": "9A3",
       "fee": 120000,
       "info": "9A3QuangHuy",
       "qr": "https://img.vietqr.io/image/MB-0989311300-compact2.png?amount=120000&addInfo=9A3QuangHuy&accountName=CHU%20DUC%20THANH"
-    },
-    {
-      "name": "Hồng Ánh",
-      "class": "9A3",
-      "fee": 420000,
-      "info": "9A3HongAnh",
-      "qr": "https://img.vietqr.io/image/MB-0989311300-compact2.png?amount=420000&addInfo=9A3HongAnh&accountName=CHU%20DUC%20THANH"
     },
     {
       "name": "Thuỳ Dương",
@@ -77,20 +56,6 @@
       "fee": 240000,
       "info": "9A3QuynhThu",
       "qr": "https://img.vietqr.io/image/MB-0989311300-compact2.png?amount=240000&addInfo=9A3QuynhThu&accountName=CHU%20DUC%20THANH"
-    },
-    {
-      "name": "Trọng",
-      "class": "9A5",
-      "fee": 420000,
-      "info": "9A5Trong",
-      "qr": "https://img.vietqr.io/image/MB-0989311300-compact2.png?amount=420000&addInfo=9A5Trong&accountName=CHU%20DUC%20THANH"
-    },
-    {
-      "name": "Ngọc",
-      "class": "9A6",
-      "fee": 480000,
-      "info": "9A6Ngoc",
-      "qr": "https://img.vietqr.io/image/MB-0989311300-compact2.png?amount=480000&addInfo=9A6Ngoc&accountName=CHU%20DUC%20THANH"
     },
     {
       "name": "Hà My",
