@@ -7,13 +7,6 @@
       "fee": 480000,
       "info": "9A2HaPhuong",
       "qr": "https://img.vietqr.io/image/MB-0989311300-compact2.png?amount=480000&addInfo=9A2HaPhuong&accountName=CHU%20DUC%20THANH"
-    },
-    {
-      "name": "Ngân",
-      "class": "9A3",
-      "fee": 120000,
-      "info": "9A3Ngan",
-      "qr": "https://img.vietqr.io/image/MB-0989311300-compact2.png?amount=120000&addInfo=9A3Ngan&accountName=CHU%20DUC%20THANH"
     }
   ]
 }
