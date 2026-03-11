@@ -35,6 +35,13 @@
       "fee": 180000,
       "info": "9A6PhuongVy",
       "qr": "https://img.vietqr.io/image/MB-0989311300-compact2.png?amount=180000&addInfo=9A6PhuongVy&accountName=CHU%20DUC%20THANH"
+    },
+    {
+      "name": "Nhật Minh",
+      "class": "9A2",
+      "fee": 100000,
+      "info": "9A2NhatMinh",
+      "qr": "https://img.vietqr.io/image/MB-0989311300-compact2.png?amount=100000&addInfo=9A2NhatMinh&accountName=CHU%20DUC%20THANH"
     }
   ]
 }
