@@ -65,13 +65,6 @@
       "qr": "https://img.vietqr.io/image/MB-0989311300-compact2.png?amount=480000&addInfo=9A3TienHung&accountName=CHU%20DUC%20THANH"
     },
     {
-      "name": "Ngân",
-      "class": "9A3",
-      "fee": 480000,
-      "info": "9A3Ngan",
-      "qr": "https://img.vietqr.io/image/MB-0989311300-compact2.png?amount=480000&addInfo=9A3Ngan&accountName=CHU%20DUC%20THANH"
-    },
-    {
       "name": "Hồng Ánh",
       "class": "9A3",
       "fee": 480000,
@@ -98,13 +91,6 @@
       "fee": 420000,
       "info": "9A3QuynhChi",
       "qr": "https://img.vietqr.io/image/MB-0989311300-compact2.png?amount=420000&addInfo=9A3QuynhChi&accountName=CHU%20DUC%20THANH"
-    },
-    {
-      "name": "Tường Vy",
-      "class": "9A3",
-      "fee": 420000,
-      "info": "9A3TuongVy",
-      "qr": "https://img.vietqr.io/image/MB-0989311300-compact2.png?amount=420000&addInfo=9A3TuongVy&accountName=CHU%20DUC%20THANH"
     },
     {
       "name": "Quỳnh Thu",
@@ -154,13 +140,6 @@
       "fee": 240000,
       "info": "9A6Hung",
       "qr": "https://img.vietqr.io/image/MB-0989311300-compact2.png?amount=240000&addInfo=9A6Hung&accountName=CHU%20DUC%20THANH"
-    },
-    {
-      "name": "Hà My",
-      "class": "9A6",
-      "fee": 480000,
-      "info": "9A6HaMy",
-      "qr": "https://img.vietqr.io/image/MB-0989311300-compact2.png?amount=480000&addInfo=9A6HaMy&accountName=CHU%20DUC%20THANH"
     }
   ]
 }
