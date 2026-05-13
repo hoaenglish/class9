@@ -6,35 +6,28 @@
       "class": "9A2",
       "fee": 480000,
       "info": "9A2HaPhuong",
-      "qr": "https://img.vietqr.io/image/OCB-CASSMSHOA9-compact2.png?amount=480000&addInfo=9A2HaPhuong&accountName=CHU%20DUC%20THANH"
+      "qr": "https://img.vietqr.io/image/MB-0989311300-compact2.png?amount=480000&addInfo=9A2HaPhuong&accountName=CHU%20DUC%20THANH"
     },
     {
       "name": "Hải An",
       "class": "9A2",
       "fee": 420000,
       "info": "9A2HaiAn",
-      "qr": "https://img.vietqr.io/image/OCB-CASSMSHOA9-compact2.png?amount=420000&addInfo=9A2HaiAn&accountName=CHU%20DUC%20THANH"
+      "qr": "https://img.vietqr.io/image/MB-0989311300-compact2.png?amount=420000&addInfo=9A2HaiAn&accountName=CHU%20DUC%20THANH"
     },
     {
       "name": "Quốc",
       "class": "9A3",
       "fee": 420000,
       "info": "9A3Quoc",
-      "qr": "https://img.vietqr.io/image/OCB-CASSMSHOA9-compact2.png?amount=420000&addInfo=9A3Quoc&accountName=CHU%20DUC%20THANH"
-    },
-    {
-      "name": "Phương Vy",
-      "class": "9A6",
-      "fee": 420000,
-      "info": "9A6PhuongVy",
-      "qr": "https://img.vietqr.io/image/OCB-CASSMSHOA9-compact2.png?amount=420000&addInfo=9A6PhuongVy&accountName=CHU%20DUC%20THANH"
+      "qr": "https://img.vietqr.io/image/MB-0989311300-compact2.png?amount=420000&addInfo=9A3Quoc&accountName=CHU%20DUC%20THANH"
     },
     {
       "name": "Hải Đăng ",
       "class": "9A6",
       "fee": 60000,
       "info": "9A6HaiDang",
-      "qr": "https://img.vietqr.io/image/OCB-CASSMSHOA9-compact2.png?amount=60000&addInfo=9A6HaiDang&accountName=CHU%20DUC%20THANH"
+      "qr": "https://img.vietqr.io/image/MB-0989311300-compact2.png?amount=60000&addInfo=9A6HaiDang&accountName=CHU%20DUC%20THANH"
     }
   ]
 }
