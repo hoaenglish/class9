@@ -28,13 +28,6 @@
       "fee": 60000,
       "info": "9A6HaiDang",
       "qr": "https://img.vietqr.io/image/MB-0989311300-compact2.png?amount=60000&addInfo=9A6HaiDang&accountName=CHU%20DUC%20THANH"
-    },
-    {
-      "name": "Ngọc Trang ",
-      "class": "9A5",
-      "fee": 360000,
-      "info": "9A5NgocTrang",
-      "qr": "https://img.vietqr.io/image/MB-0989311300-compact2.png?amount=360000&addInfo=9A5NgocTrang&accountName=CHU%20DUC%20THANH"
     }
   ]
 }
